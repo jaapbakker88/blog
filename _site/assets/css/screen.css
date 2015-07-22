@@ -476,7 +476,13 @@ margin on the iframe, cause it breaks stuff. */
     height: 100%;
     margin-bottom: 5rem;
     text-align: center;
-    background: #222 no-repeat center center;
+    
+  background: -webkit-linear-gradient(90deg, #a73737 10%, #7a2828 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #a73737 10%, #7a2828 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #a73737 10%, #7a2828 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #a73737 10%, #7a2828 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #a73737 10%, #7a2828 90%); /* W3C */
+        
     background-size: cover;
     overflow: hidden;
 }
