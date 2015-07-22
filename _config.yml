@@ -13,3 +13,4 @@ google_analytics: 'UA-XXXXXXXX-X'
 # Details for the RSS feed generator
 url:            'http://www.j33p.nl/blog'
 author:         'Jaap Bakker'
+author_description: 	'Ik woon in Amsterdam en schrijf al sinds jaar en dag.En daar hoort natuurlijk een blog bij. Nu meer <em>business-related</em>.'
