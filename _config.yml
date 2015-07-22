@@ -1,0 +1,15 @@
+name: Jaap Bakker
+description: Blogging about life's challenges...
+meta_description: "The blog of Jaap Bakker. Owner of Colorblind, receptionist at Rockstart and lively guy from Amsterdam."
+
+markdown: redcarpet
+highlighter: pygments
+logo: true
+paginate: 5
+baseurl: /
+domain_name: 'http://j33p.nl/blog'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'http://www.j33p.nl/blog'
+author:         'Jaap Bakker'
