@@ -1729,7 +1729,6 @@ body:not(.post-template) .post-title {
 }
 
     .line {
-    z-index: 1;
     width: 100%;
     height: 5px !important;
     position: fixed;
