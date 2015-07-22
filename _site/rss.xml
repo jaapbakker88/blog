@@ -8,7 +8,15 @@
     <title>Jaap Bakker</title>
     <link>http://www.j33p.nl/blog</link>
     <description>Blogging about life's challenges...</description>
-    <pubDate>Wed, 22 Jul 2015 19:21:00 +0200</pubDate>
+    <pubDate>Wed, 22 Jul 2015 20:58:00 +0200</pubDate>
+    <item>
+      <title>Hello World!</title>
+      <link>http://www.j33p.nl/blog/2015/07/22/hello-world.html</link>
+      <description>&lt;p&gt;Ik ben er weer jongens. Dit keer met een nieuw systeem. Gratis, makkelijk te onderhouden, simpel in gebruik en toch ingewikkeld genoeg om er mee zoet te zijn. &lt;/p&gt;
+</description>
+      <pubDate>Wed, 22 Jul 2015 20:58:00 +0200</pubDate>
+      <dc:date>2015-07-22T20:58:00+02:00</dc:date>
+    </item>
     <item>
       <title>Back Online!</title>
       <link>http://www.j33p.nl/blog/2015/07/22/welcome-to-jekyll.html</link>
@@ -17,6 +25,6 @@
       <pubDate>Wed, 22 Jul 2015 19:21:00 +0200</pubDate>
       <dc:date>2015-07-22T19:21:00+02:00</dc:date>
     </item>
-    <dc:date>2015-07-22T19:21:00+02:00</dc:date>
+    <dc:date>2015-07-22T20:58:00+02:00</dc:date>
   </channel>
 </rss>

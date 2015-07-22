@@ -4,7 +4,7 @@ meta_description: "The blog of Jaap Bakker. Owner of Colorblind, receptionist at
 
 markdown: redcarpet
 highlighter: pygments
-logo: true
+logo: assets/images/logo.png
 paginate: 5
 baseurl: /blog
 domain_name: 'http://j33p.nl/blog'
