@@ -6,6 +6,8 @@ date:   2015-07-22 18:58:00
 
 Ik ga er eindelijk wat mee doen. Naast dit nieuwe blog ben ik ook mijn eigen web-development bureautje begonnen. De laatste weken ben ik als een malle aan het bijleren en mijn skills aan het opfrissen. Nu ben ik hier en kan ik de eerste versie van mijn website onthullen: [Colorblind](http://www.j33p.nl/colorblind).
 
+---
+
 ![Colorblind Logo]({{ site.baseurl }}/assets/images/colorblind-logo-wide.png)
 
 ---
