@@ -194,6 +194,17 @@ body {
     background: #D6EDFF;
 }
 
+.line {
+    width: 100%;
+    height: 5px !important;
+    position: fixed !important;
+    background: -webkit-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* Chrome 10+, Saf5.1+ */
+    background:    -moz-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* FF3.6+ */
+    background:     -ms-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* IE10 */
+    background:      -o-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* Opera 11.10+ */
+    background:         linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* W3C */
+    }
+
 h1, h2, h3,
 h4, h5, h6 {
     -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
@@ -204,18 +215,6 @@ h4, h5, h6 {
     margin: 0 0 0.4em 0;
     font-family: "Open Sans", sans-serif;
 }
-
-.line {
-    z-index: 1;
-    width: 100%;
-    height: 5px !important;
-    position: fixed !important;
-    background: -webkit-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* Chrome 10+, Saf5.1+ */
-    background:    -moz-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* FF3.6+ */
-    background:     -ms-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* IE10 */
-    background:      -o-linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* Opera 11.10+ */
-    background:         linear-gradient(90deg, #EB3349 10%, #F45C43 90%) !important; /* W3C */
-    }
 
 
 h1 {
@@ -1741,7 +1740,6 @@ body:not(.post-template) .post-title {
 }
 
     .line {
-    z-index: 1;
     width: 100%;
     height: 5px !important;
     position: fixed;
