@@ -8,7 +8,7 @@ logo: assets/images/logo.png
 paginate: 5
 baseurl: /blog
 domain_name: 'http://j33p.nl/blog'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-66706864-1'
 
 # Details for the RSS feed generator
 url:            'http://www.j33p.nl/blog'
